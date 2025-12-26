@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/Koustubh12345/OnePlus-launcher-Mod?style=flat-square)](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases)
 [![Downloads](https://img.shields.io/github/downloads/Koustubh12345/OnePlus-launcher-Mod/total?style=flat-square)](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases)
 
-OnePlus Launcher Mod To Enable Mods Like Glassy Dock And Other Mods
+OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
 ---
 
 ## 📱 Compatibility
@@ -40,7 +40,8 @@ OnePlus Launcher Mod To Enable Mods Like Glassy Dock And Other Mods
 
 1.  Download the latest release from the [Releases Page](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases).
 2.  **If using Magisk/KSU (Recommended):**
-    * Flash the `.zip` file in your manager.
+    * Flash the `.zip` file in your manager
+    * NOTE: in Ksu Settings disable umount modules by default
     * Reboot your device.
 3.  **If applying manually:**
     * Ensure you have the necessary root permissions to replace system overlays.

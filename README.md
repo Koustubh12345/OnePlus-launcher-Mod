@@ -42,15 +42,15 @@ OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
     * Flash the `.zip` file in your manager
     * NOTE: in Ksu Settings disable umount modules by default
     * Reboot your device.
-3.  **If applying manually:**
-    * Ensure you have the necessary root permissions to replace system overlays.
+3.  **If installing manually:**
+    * Ensure you have dsv enabled.
 
 ---
 
 ## 🤝 Credits
 
 * **Modded By:** [TenSei](https://t.me/TenseiMods)
-* **Original Launcher:** Realme / OPPO / OnePlus (ColorOS Team)
+* **Original Launcher:** Realme
 
 ---
 

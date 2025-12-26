@@ -22,10 +22,9 @@ OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
 * **Dynamic Glassy Dock:** The dock background now features an auto-adaptive glassy blur effect that changes dynamically based on your wallpaper and icons.
 
 ### 🔄 Multitasking & Recents
-* **Stacked Recents Layout:** Enabled the aesthetic "Stacked" card view for the recent apps screen on all supported devices, replacing the standard flat view.
+* **Stacked Recents Layout:** Enabled the aesthetic "Stacked" card view for the recent apps screen on all supported and unsupported devices, replacing the standard flat view.
 * **Unlocked App Locking:** Removed system limitations that prevented specific apps from being locked in memory.
-* **Enhanced Split-Screen:** Removed restrictions for Split Screen and Floating Windows, allowing more apps to utilize these features.
-
+  
 ### 🔍 Custom Search Provider
 * **Custom Package Target:** You are no longer forced to use the default Global Search.
 * **How it works:** Go to Launcher Settings, type the **Package Name** of your preferred app (e.g., `com.openai.chatgpt` or `com.android.chrome`), and the Home Screen search bar will instantly launch that app.

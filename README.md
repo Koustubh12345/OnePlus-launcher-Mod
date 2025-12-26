@@ -58,7 +58,7 @@ Before installing the launcher mod, you **must** install the DSV module:
 * Flash the DSV module in Magisk/KSU and reboot.
 
 ### Step 2: Install Launcher Mod
-1.  Download the latest release from the [Releases Page](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases).
+1.  Download the latest release from the [Releases Page]
 2.  **Using Magisk/KSU:**
     * Flash the `.zip` file in your manager.
     * **KSU Users:** Go to Settings and ensure **"Unmount modules by default"** is disabled.

@@ -71,6 +71,7 @@ Before installing the launcher mod, you **must** install the DSV module:
 * **Modded By:** [TenSei](https://t.me/TenseiMods)
 * **Banner Design:** Aditya Y'wr // ;)
 * **Original Launcher:** Realme
+* **Gemini** For Readme Format
 
 ---
 

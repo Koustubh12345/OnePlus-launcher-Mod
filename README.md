@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/W39WMks4/20251227-000721.jpg" alt="OnePlus Launcher Mod Banner" width="100%">
+</p>
+
 # OnePlus Launcher Mod
 
 [![Release](https://img.shields.io/github/v/release/Koustubh12345/OnePlus-launcher-Mod?style=flat-square)](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases)

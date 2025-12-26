@@ -1,13 +1,20 @@
 <p align="center">
-  <img src="[https://i.postimg.cc/3NG3V7S2/10831-modified.png"] alt="OnePlus Launcher Mod Banner" width="100%">
+  <img src="https://i.postimg.cc/3NG3V7S2/10831-modified.png" alt="OnePlus Launcher Mod Banner" width="100%">
 </p>
 
 # OnePlus Launcher Mod
 
-[![Release](https://img.shields.io/github/v/release/Koustubh12345/OnePlus-launcher-Mod?style=flat-square)](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases)
-[![Downloads](https://img.shields.io/github/downloads/Koustubh12345/OnePlus-launcher-Mod/total?style=flat-square)](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases)
+<p align="center">
+  <a href="https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases">
+    <img src="https://img.shields.io/github/v/release/Koustubh12345/OnePlus-launcher-Mod?style=flat-square" alt="Release">
+  </a>
+  <a href="https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases">
+    <img src="https://img.shields.io/github/downloads/Koustubh12345/OnePlus-launcher-Mod/total?style=flat-square" alt="Downloads">
+  </a>
+</p>
 
-OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
+OnePlus Launcher Mod to enable Auto Adjust Glassy Dock and other premium system modifications.
+
 ---
 
 ## 📱 Compatibility
@@ -43,11 +50,11 @@ OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
 
 1.  Download the latest release from the [Releases Page](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases).
 2.  **If using Magisk/KSU (Recommended):**
-    * Flash the `.zip` file in your manager
-    * NOTE: in Ksu Settings disable umount modules by default
+    * Flash the `.zip` file in your manager.
+    * **Note:** In KSU Settings, disable "Unmount modules by default."
     * Reboot your device.
 3.  **If installing manually:**
-    * Ensure you have dsv enabled.
+    * Ensure you have **DSV** (Disable Signature Verification) enabled.
 
 ---
 
@@ -55,10 +62,11 @@ OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
 
 * **Modded By:** [TenSei](https://t.me/TenseiMods)
 * **Original Launcher:** Realme
-* Thanks Gemini For Readme Format
+* **README Format:** Gemini
 
 ---
 
 <p align="center">
-  Made by TenSei てんせい
+  <b>Made by TenSei てんせい</b>
 </p>
+

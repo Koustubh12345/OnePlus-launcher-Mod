@@ -10,8 +10,8 @@ OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
 
 | OS | Status |
 | :--- | :---: |
-| **ColorOS** | ✅ Supported |
-| **OxygenOS** | ✅ Supported |
+| **ColorOS 16** | ✅ Supported |
+| **OxygenOS 16** | ✅ Supported |
 | **Realme UI 7** | ✅ Supported |
 
 ---

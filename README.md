@@ -55,5 +55,5 @@ OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
 ---
 
 <p align="center">
-  Made with ❤️ by TenSei
+  Made by TenSei てんせい
 </p>

@@ -3,8 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/Koustubh12345/OnePlus-launcher-Mod?style=flat-square)](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases)
 [![Downloads](https://img.shields.io/github/downloads/Koustubh12345/OnePlus-launcher-Mod/total?style=flat-square)](https://github.com/Koustubh12345/OnePlus-launcher-Mod/releases)
 
-A powerful modification for the stock system launcher found in **ColorOS**, **OxygenOS**, and **Realme UI 7**. This project aims to unlock hidden features, improve aesthetics with glassy elements, and remove system-imposed restrictions for a smoother user experience.
-
+OnePlus Launcher Mod To Enable Mods Like Glassy Dock And Other Mods
 ---
 
 ## 📱 Compatibility

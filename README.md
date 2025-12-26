@@ -51,6 +51,7 @@ OnePlus Launcher Mod To Enable Auto Adjust Glassy Dock And Other Mods
 
 * **Modded By:** [TenSei](https://t.me/TenseiMods)
 * **Original Launcher:** Realme
+* Thanks Gemini For Readme Format
 
 ---
 

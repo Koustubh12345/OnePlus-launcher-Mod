@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="[https://i.postimg.cc/fTy6Hm9f/20260518-101253.png]" alt="OnePlus Launcher Mod Banner" width="100%">
+  <img src="https://i.postimg.cc/fTy6Hm9f/20260518-101253.png" 
+       alt="OnePlus Launcher Mod Banner"
+       width="100%"
+       style="border-radius: 24px;">
 </p>
 
 # OnePlus Launcher Mod
